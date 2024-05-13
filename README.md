@@ -4,7 +4,7 @@
 - 🏡 作品： <a href="https://github.com/Mredust/mredust-sql-generator-backend" target="_blank">SQL生成器✨</a>
 
 
-- :pencil: 博客：[CSDN💬](https://blog.csdn.net/LHCong_)
+- :pencil: 博客：[CSDN💬](https://blog.csdn.net/Mredust)
 
 
 ### ✨ Technology stack
@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
-
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Mredust)
 
 
