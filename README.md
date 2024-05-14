@@ -7,7 +7,7 @@
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/Mredust)
 
 
-### ✨ Technology stack
+### ✨ 技术栈
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
