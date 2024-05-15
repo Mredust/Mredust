@@ -9,7 +9,6 @@
 
 ### ✨ 技术栈
 
-[![CSDN](https://img.shields.io/badge/CSDN-FB5532?logo=csdn)](https://blog.csdn.net/Mredust)
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
