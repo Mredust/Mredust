@@ -1,7 +1,7 @@
 ## Mredust
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
-- 🏡 作品： <a href="https://github.com/Mredust/mredust-sql-generator-backend" target="_blank">SQL生成器✨</a>
+- ✨开发项目： <a href="https://github.com/Mredust/mredust-sql-generator-backend" target="_blank">SQL生成器✨</a> | <a href="https://github.com/Mredust/mredust-oj-backend" target="_blank">Online-Judge✨</a>
 
 
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/Mredust)
@@ -25,9 +25,7 @@
 
 ## ✨汇总
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mredust&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mredust&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-### ✨开发项目
 
-- 业务项目(business projects)
-  - [SQL生成器✨](https://github.com/Mredust/mredust-sql-generator-backend)
+
   
     
