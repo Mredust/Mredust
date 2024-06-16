@@ -1,7 +1,7 @@
 ## Mredust
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
-- ✨开发项目： <a href="https://github.com/Mredust/mredust-sql-generator-backend" target="_blank">SQL生成器✨</a> | <a href="https://github.com/Mredust/mredust-oj-backend" target="_blank">Online-Judge✨</a>
+- ✨开发项目： <a href="https://github.com/Mredust/mredust-sql-generator-backend" target="_blank">SQL生成器✨</a> | <a href="https://github.com/Mredust/mredust-oj-backend" target="_blank">在线判题✨</a>
 
 
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/Mredust)
